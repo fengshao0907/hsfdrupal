@@ -1,13 +1,18 @@
-
-
-
-
-
-
-html, body, .form-radio, .form-checkbox, .form-file, .form-select, select, .form-text, input, .form-textarea, textarea  { font-family: "Lucida Grande", "Lucida Sans", "Lucida Sans Unicode", "DejaVu Sans", Arial, sans-serif; }
-h1, h2, h3, h4, h5, h6  { font-family: "Lucida Grande", "Lucida Sans", "Lucida Sans Unicode", "DejaVu Sans", Arial, sans-serif; }
-#wrapper { font-size: 12px; }
-#header { height: auto; }
-#wrapper, #footer { width: 960px; }
-#navigation ul ul, #navigation ul ul li  { width: 15em; }
-#navigation li .expanded ul { margin: -2.65em 0 0 15em!important; }
+#wrapper, #footer { width: 960px; }
+#navigation ul ul, #navigation ul ul li  { width: 15em; }
+#navigation li .expanded ul { margin: -2.65em 0 0 15em!important; }
+#header { height: auto; }
+#wrapper { font-size: 12px; }
+html, body, .form-radio, .form-checkbox, .form-file, .form-select, select, .form-text, input, .form-textarea, textarea  { font-family: "Lucida Grande", "Lucida Sans", "Lucida Sans Unicode", "DejaVu Sans", Arial, sans-serif; }
+h1, h2, h3, h4, h5, h6  { font-family: "Lucida Grande", "Lucida Sans", "Lucida Sans Unicode", "DejaVu Sans", Arial, sans-serif; }
+
+.content p{font-size:14px;}
+.content th{text-align:center;vertical-align:middle;text-shadow:none;font-size:12px;}
+.content .en th{text-align:right;}
+.content .company{font-size:18px;color:white;padding:2px;}
+.content .blue_bg{background-color:#3366ff;}
+.content .green_bg{background-color:green;}
+.content .orange_bg{background-color:orange;}
+.content .biz{color:white;font-size:14px;padding:2px;margin-left:16px;}
+.content .left{text-align:left !important;}
+.content .en .biz{color:white;font-size:14px;padding:2px;margin-left:8px;}
